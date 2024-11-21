@@ -1,0 +1,4 @@
+name: CaSpawnPlugin
+version: '1'
+main: me.h12z.caSpawnPlugin.CaSpawnPlugin
+api-version: '1.21'
